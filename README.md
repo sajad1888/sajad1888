@@ -17,9 +17,20 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <hr/>
-<h2 align="center">⚡️ &nbsp; Github Stats</h2>
+<h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/sajad1888" >
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut" />
   </div>
 </a>
+
+<h2>📞 &nbsp; Contact Me </h2>
+
+<p align="center">
+  <a href="https://github.com/sajad1888">
+    <img src="https://img.shields.io/badge/github-sajad1888-888888?style=flat&logo=github" />
+  </a>
+  <a href="https://t.me/Ssh1385h/">
+    <img src="https://img.shields.io/badge/Telegram-@Ssh1385h-blue?style=flat&logo=telegram" />
+  </a>
+</p>
