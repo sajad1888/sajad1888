@@ -25,7 +25,8 @@
 <hr/>
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut&langs_count=8)](https://github.com/sajad1888/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut&langs_count=8)](https://github.com/sajad1888/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![sajad's github stats](https://github-readme-stats.vercel.app/api?username=sajad1888&show_icons=true&theme=highcontrast)
 
 <h2>📞 &nbsp; Contact Me </h2>
 
