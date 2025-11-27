@@ -16,3 +16,10 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<hr/>
+<h2 align="center">⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/sajad1888" >
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut" />
+  </div>
+</a>
