@@ -9,7 +9,7 @@
   ![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-333333?style=flate&logo=tailwind-css&logoColor=38B2AC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
