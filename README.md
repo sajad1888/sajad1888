@@ -25,10 +25,7 @@
 <hr/>
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sajad1888" >
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut" />
-  </div>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad1888&layout=donut)](https://github.com/sajad1888/github-readme-stats)
 
 <h2>📞 &nbsp; Contact Me </h2>
 
