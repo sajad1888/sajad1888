@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/sajad1888/sajad1888/5d38b12d697f156d3c280f13d17ef256205a42b1/github-header-banner.png"></img>
 <hr/>
+<h2>Bio:</h2>
+<pre>
+  Sajad Sahraee - Computer Engineering student and Next.js web developer.
+  Focused on building fast, modern, and clean web experiences.
+  Always learning, always improving.
+</pre>
 <h2>🔧 &nbsp; Tech Stack</h2>
 
 - 🌐 &nbsp;
