@@ -10,9 +10,7 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![next.js](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-333333?style=flate&logo=tailwind-css&logoColor=38B2AC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
