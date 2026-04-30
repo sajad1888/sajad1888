@@ -2,7 +2,7 @@
 <hr/>
 <h2>Bio:</h2>
 <pre>
-  Sajad Sahraee - Computer Engineering student and Next.js web developer.
+  Sajad Sahraee - Computer Engineering student and React web developer.
   Focused on building fast, modern, and clean web experiences.
   Always learning, always improving.
 </pre>
